@@ -1,16 +1,34 @@
-## Hi there 👋
+Привет, я Даниил 👋
 
-<!--
-**DaniilDemenik/DaniilDemenik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Product Analyst | Стажёр продуктовой аналитики**
 
-Here are some ideas to get you started:
+Студент 6 курса мехмата МГУ. Развиваюсь в продуктовой аналитике: рассчитываю метрики, провожу A/B-анализ и формулирую рекомендации на основе данных. Ищу стажировку или junior-позицию в продуктовой команде (готов работать 20–40 часов в неделю).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Как со мной связаться:**
+[![Email](https://img.shields.io/badge/Email-dem.dani@yandex.ru-blue?style=flat-square&logo=yandex)](mailto:dem.dani@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-@Rex_ARRR-blue?style=flat-square&logo=telegram)](https://t.me/Rex_ARRR)
+[![Резюме (PDF)](https://img.shields.io/badge/Скачать_резюме_(PDF)-red?style=flat-square&logo=adobeacrobatreader)](ССЫЛКА_НА_ВАШ_PDF_ФАЙЛ)
+
+---
+
+### 🛠️ Мой стек и навыки
+
+*   **Python:** pandas, NumPy, Matplotlib; EDA, очистка и визуализация данных.
+*   **SQL:** JOIN, GROUP BY, подзапросы, CTE, агрегации, оконные функции.
+*   **Статистика:** Теория вероятностей, проверка гипотез (Z-тест, t-тест), доверительные интервалы, анализ воронок.
+*   **Дополнительно:** C++, LaTeX, Git, английский (B1–B2).
+
+---
+
+### 🚀 Мои проекты
+
+| Проект | Задача, которую он решает | Стек | Ссылка |
+| :--- | :--- | :--- | :--- |
+| **A/B-тест: автозаполнение реквизитов** | Оценить влияние новой формы на конверсию оплаты ЖКХ. Выявлен рост конверсии с 49,7% до 64,4% (p-value < 0,001). | Python, pandas, Z-test | [Смотреть код](https://github.com/DaniilDemenik/ab-test-payments) |
+
+---
+
+### 🎓 Образование
+
+**МГУ имени М. В. Ломоносова** — механико-математический факультет, кафедра математического анализа.
+*Специалитет, 2021–2027 (ожидаемый выпуск).*
